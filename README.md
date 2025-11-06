@@ -4,7 +4,7 @@ A comprehensive Electronic Store Management System built with ASP.NET MVC, Entit
 
 ## 👤 Author
 
-**FurqanMuhajid**
+**Muhammad Furqan Mujahid**
 
 ## 📋 Table of Contents
 
